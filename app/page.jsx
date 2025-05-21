@@ -9,7 +9,7 @@ export default function Home() {
     <main className="flex min-h-screen items-center justify-center bg-gray-100">
 
       <div className="space-y-3">
-        <Greeting name="Alice" />
+        <Greeting name="Raj" />
 
         <div className="space-y-4  justify-center">
           <h1 className="text-neutral-950 font-bold">Learn about Functional Components and Props</h1>

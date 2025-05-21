@@ -36,7 +36,7 @@ export default function FunctionalComponentPage() {
               ✅ Here’s how it looks in action:
             </p>
             <div className="border border-blue-300 rounded-lg p-6 bg-blue-50 shadow-inner">
-              <Greeting name="Alice" />
+              <Greeting name="Raj" />
             </div>
           </div>
 
